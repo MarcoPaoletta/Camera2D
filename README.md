@@ -1,4 +1,4 @@
-# Camera2D
+### Camera2D
 ---
 * Este proyecto fue creado con el unico proposito de aprender como funciona el nodo Camera2D
 * En este encontramos al jugador, un fondo, y unos objetos como obstaculos
